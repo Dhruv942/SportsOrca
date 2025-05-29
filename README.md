@@ -1,6 +1,6 @@
 # SportsOrca Full Stack Internship - Upcoming Matches List
 
-This project displays upcoming Soccer matches. The backend (Node.js/Express) fetches data from TheSportsDB API and serves it to the React frontend, which displays the match list with team names and scheduled date/time.
+This project displays upcoming Basketball matches. The backend (Node.js/Express) fetches data from TheSportsDB API and serves it to the React frontend, which displays the match list with team names and scheduled date/time.
 
 ---
 
